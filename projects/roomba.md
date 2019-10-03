@@ -2,6 +2,12 @@
 layout: post
 title: 'Roomba Robot'
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+For this project, myself and three other team members worked to provide the programming for
+an already setup Roomba. This Roomba had been outfitted with sonar, infrared sensors, a WiFi module, 
+and the already builtin bump sensors. We had to develop the necessary programming to communicate with
+the Roomba and navigate it through an obstacle course without being able to visually see the Roomba.
+This project was based in C and taught me a number of things: how to build communication channels over WiFi,
+how to setup registers for the Roomba in C, microprocessor programming, and how to communicate with physical
+hardware directly.
 
-{% include image.html text="" image="seattle.jpg" %}
+{% include image.html text="" image="roomba.jpg" %}

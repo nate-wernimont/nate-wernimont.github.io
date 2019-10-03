@@ -51,8 +51,8 @@ contact: >
 
 projects:
 - {name: 'Roomba Robot', folder: 'roomba', file: 'projects/roomba.html'}
-- {name: 'Project Two', folder: 'proj-2', file: 'projects/proj-2.html'}
-- {name: 'Project Three', folder: 'proj-3', file: 'projects/proj-3.html'}
+- {name: 'Opto', folder: 'opto', file: 'projects/opto.html'}
+- {name: 'Basic File Editing', folder: 'file-editor', file: 'projects/file-editor.html'}
 - {name: 'Microsoft', folder: 'microsoft', file: 'projects/microsoft.html'}
 - {name: 'Workiva', folder: 'workiva', file: 'projects/workiva.html'}
 
