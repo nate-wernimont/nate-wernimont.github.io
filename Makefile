@@ -1,2 +1,2 @@
 make:
-	bundle exec jekyll build -d ../built_site
+	bundle exec jekyll build
